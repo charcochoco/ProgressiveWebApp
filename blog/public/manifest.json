@@ -1,0 +1,15 @@
+{
+    "name": "Romain's Blog",
+    "short_name": "BlogRom",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "/icons/logo_X.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "display": "standalone",
+    "id": "Live-blog"
+}
